@@ -57,11 +57,11 @@ image
 
 
 # Решение 2
-[img] {SCR-20230807-nkwf.png}
+![img](https://github.com/znak72/6-02/blob/main/SCR-20230807-obbg.png)
 # Решение 3
-
+![first](https://github.com/znak72/6-02/blob/main/SCR-20230807-nkwf.png)
 # Решение 4
-
+![img](https://github.com/znak72/6-02/blob/main/SCR-20230807-ojcs.png)
 # Решение 5
 
 # Решение 6
