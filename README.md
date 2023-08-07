@@ -39,6 +39,22 @@ image
 Приложите скриншоты действий.
 
 # Решение 1
+Существует несколько типов виртуализации:
+
+Виртуализация на уровне операционной системы (ОС). Примеры продуктов: Docker, LXC (Linux Containers), OpenVZ.
+
+Виртуализация на уровне гипервизора (тип 1). Примеры продуктов: VMware ESXi, Microsoft Hyper-V, Citrix XenServer.
+
+Виртуализация на уровне гипервизора (тип 2). Примеры продуктов: VMware Workstation, Oracle VirtualBox, Microsoft Virtual PC.
+
+Виртуализация на уровне аппаратного обеспечения. Примеры продуктов: IBM z/VM, Oracle VM Server for SPARC (ранее Sun Logical Domains), Microsoft Hyper-V Server.
+
+Виртуализация сети. Примеры продуктов: Cisco ACI (Application Centric Infrastructure), VMware NSX, Juniper Contrail.
+
+Виртуализация хранилища данных. Примеры продуктов: VMware vSAN, Microsoft Storage Spaces, Nutanix Acropolis.
+
+Виртуализация приложений. Примеры продуктов: Citrix XenApp, Microsoft App-V, VMware ThinApp.
+
 
 # Решение 2
 
